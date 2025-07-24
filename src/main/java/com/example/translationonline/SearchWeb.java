@@ -34,9 +34,6 @@ public class SearchWeb extends AnAction {
         }
         String url = null;
         switch (text) {
-            case "w3搜索":
-                url = "https://w3.huawei.com/unisearch/index.html?keyword=";
-                break;
             case "goole搜索":
                 url = "https://www.google.com/search?q=";
                 break;
